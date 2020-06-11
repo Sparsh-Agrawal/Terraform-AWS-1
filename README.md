@@ -13,15 +13,18 @@ Here I have created a infrastructure in **HCL (Hashicorp Configuration Language)
   * Key Pair
 ![](images/codekey.png)
 ![](images/key.png)
+
   * Security Group
-![](images/codesg.png)
 ![](images/sg.png)
+![](images/codesg.png)
+
   * EBS Volume
-![](images/codevolume.png)
 ![](images/volume.png)
+![](images/codevolume.png)
+
   * Instance
-![](images/codeinstance.png)
 ![](images/instance.png)
+![](images/codeinstance.png)
   
 ### S3 bucket with Public Access, consisting of all the data of GitHub repository
    * S3 bucket and Bucket Policy
