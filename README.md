@@ -11,24 +11,19 @@ Here I have created a infrastructure in **HCL (Hashicorp Configuration Language)
 
 ### EC2 instance with configured Apache Server
   * Key Pair
-  ![](images/key.png)
-<br/>
+![](images/key.png)
   * Security Group
-  ![](images/sg.png)
-<br/>
+![](images/sg.png)
   * EBS Volume
-  ![](images/volume.png)
-<br/>
+![](images/volume.png)
   * Instance
-  ![](images/instance.png)
-<br/>
+![](images/instance.png)
   
 ### S3 bucket with Public Access, consisting of all the data of GitHub repository
    * S3 bucket
-   ![](images/bucket1.png)
-   <br/>
-   ![](images/bucket2.png)
-   <br/>
+ ![](images/bucket1.png)
+ 
+ ![](images/bucket2.png)
    
    * Bucket Policy
    
