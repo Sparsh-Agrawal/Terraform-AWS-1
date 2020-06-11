@@ -1,3 +1,4 @@
+![](images/terraws.png)
 # Terraform-AWS-1
 Terraform is an open-source tool created by HashiCorp. It is used for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 
