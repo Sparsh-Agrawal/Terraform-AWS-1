@@ -25,6 +25,9 @@ Here I have created a infrastructure in **HCL (Hashicorp Configuration Language)
   * Instance
 ![](images/instance.png)
 ![](images/codeinst.png)
+
+### Hosted Site using the IP of the Instance
+![](images/running_site.png)
   
 ### S3 bucket with Public Access, consisting of all the data of GitHub repository
    * S3 bucket and Bucket Policy
