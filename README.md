@@ -61,5 +61,7 @@ Here I have created a infrastructure in **HCL (Hashicorp Configuration Language)
 ![](images/toDestroy.png)
 <br/>
 
-### At last here is the file for reference<br/>
+### For reference<br/>
 [`Infrastructure.tf`](https://github.com/Sparsh-Agrawal/Terraform-AWS-1/blob/master/infra.tf)
+
+[`LinkedIn`](https://www.linkedin.com/pulse/aws-infrastructure-using-terraform-sparsh-agrawal)
