@@ -24,13 +24,13 @@ Here I have created a infrastructure in **HCL (Hashicorp Configuration Language)
 
   * Instance
 ![](images/instance.png)
-![](images/codeinstance.png)
+![](images/codeinst.png)
   
 ### S3 bucket with Public Access, consisting of all the data of GitHub repository
    * S3 bucket and Bucket Policy
-![](images/codebucket.png)
 ![](images/bucket1.png)
 ![](images/bucket2.png)
+![](images/codebucket.png)
    
 ### CloudFront Distribution for S3 bucket
 ![](images/codedistri1.png)
@@ -52,6 +52,10 @@ Here I have created a infrastructure in **HCL (Hashicorp Configuration Language)
 ![](images/pipeline6.png)
 <br/>
 ![](images/pipeline7.png)
+<br/>
+
+### Clearing your Infrastructure
+![](images/toDestroy.png)
 <br/>
 
 ### At last here is the file for reference<br/>
