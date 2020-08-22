@@ -2,7 +2,7 @@
 # Terraform-AWS-1
 Terraform is an open-source tool created by **HashiCorp**. It is used for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 
-#### Statement
+#### Statement:
 * Create the key and security group which allow the port 80.
 * Launch EC2 instance.
 * In this Ec2 instance use the key and security group which we have created in step 1.
